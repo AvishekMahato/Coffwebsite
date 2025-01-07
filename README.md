@@ -1,4 +1,3 @@
-# Coffwebsite
 Coffee Shop Website ☕
 Welcome to the Coffee Shop Website repository! This project showcases a beautifully designed, responsive website for a fictional coffee shop. The site is built with modern web development technologies and focuses on providing an excellent user experience.
 
